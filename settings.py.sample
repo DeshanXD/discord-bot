@@ -1,0 +1,5 @@
+client_id = 'xxxxxxxxxxxx'
+client_secret = 'xxxxxxxxxxx'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+permission_integer = 'xxx'
+SERVER_ID = 'xxxxxxxxxx'
